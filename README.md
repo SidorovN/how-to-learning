@@ -6,5 +6,6 @@ HTML5, CSS3
 * Flexbox, grid layout
 * Анимация статичных объектов через keyframes
 * БЭМ-именование классов
+* Файловая структура по БЭМ
 ### Ссылка для просмотра
 https://SidorovN.github.io/sprint-2/
